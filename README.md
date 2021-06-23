@@ -13,15 +13,15 @@
 1.5 순환
 
 ### CHAPTER 02 Linked List
-2.1 Singly Linked List
-  - (2-1) Singly Linked List
-  - (2-2) Main
-2.2 Doubly Linked List
-  - (2-3) Doubly Linked List
-  - (2-4) Main
-2.3 Circular Linked List
-  - (2-5) Circular Linked List
-  - (2-6) Main
+- 2.1 Singly Linked List
+    - (2-1) Singly Linked List
+    - (2-2) Main
+- 2.2 Doubly Linked List
+    - (2-3) Doubly Linked List
+    - (2-4) Main
+- 2.3 Circular Linked List
+    - (2-5) Circular Linked List
+    - (2-6) Main
 
 ### CHAPTER 03 Stack & Queue
 3.1 Stack
